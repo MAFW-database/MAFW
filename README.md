@@ -86,6 +86,7 @@ Please cite our paper if you find our work useful for your research:
 If you have any questions about the dataset, please contact us by email.
 | Contacts | Email |
 | ------ | ------ |
-|  | ygh2@cug.edu.cn |
+| Student | ygh2@cug.edu.cn |
+| Teacher | liuyy@cug.edu.cn|
 
 
