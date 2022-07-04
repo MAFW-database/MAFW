@@ -86,8 +86,8 @@ Please cite our paper if you find our work useful for your research:
 If you have any questions about the dataset, please contact us by email.
 | Contacts | Email |
 | ------ | ------ |
-| Student | ygh2@cug.edu.cn |
 | Associate Professor | liuyy@cug.edu.cn|
-Also, visit our team research home page at https://cvlab-liuyuanyuan.github.io/。
+| Student | ygh2@cug.edu.cn |
+Also, visit our team research home page at https://cvlab-liuyuanyuan.github.io/
 
 
