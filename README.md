@@ -86,6 +86,6 @@ Please cite our paper if you find our work useful for your research:
 If you have any questions about the dataset, please contact us by email.
 | Contacts | Email |
 | ------ | ------ |
-|  | wind_ygh@163.com |
+|  | ygh2@cug.edu.cn |
 
 
