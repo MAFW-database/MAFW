@@ -87,6 +87,6 @@ If you have any questions about the dataset, please contact us by email.
 | Contacts | Email |
 | ------ | ------ |
 | Student | ygh2@cug.edu.cn |
-| Teacher | liuyy@cug.edu.cn|
+| Associate Professor | liuyy@cug.edu.cn|
 
 
