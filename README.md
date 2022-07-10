@@ -26,7 +26,7 @@
 
 ## 2. Download the MAFW dataset
 
-> **Note:** We have set out some of the terms and conditions in this section, as detailed in the [academics document](https://github.com//MAFW-datset/mafw/blob/main/academics/mafw-academics-final.pdf). Your E-mail MUST be set from a valid University account.
+> **Note:** We have set out some of the terms and conditions in this section, as detailed in the [academics document](/academics/mafw-academics-final.pdf). Your E-mail MUST be set from a valid University account.
 
 ### 2.1 Some terms&conditions
 - MAFW database is available for  <b>non-commercial research purposes </b> only.
@@ -40,7 +40,7 @@
 > **Note:** This database is publicly available. It is free for professors and researcher scientists affiliated to a University.
 
 Permission to use but not reproduce or distribute the MAFW database is granted to all researchers given that the following steps are properly followed:
-1. Download the [mafw-academics -final.pdf](https://github.com//MAFW-datset/mafw/blob/main/academics/mafw-academics-final.pdf) document.
+1. Download the [mafw-academics -final.pdf](/academics/mafw-academics-final.pdf) document.
 2. Read the terms and conditions carefully to make sure they are acceptable, and fill in the relevant information at the end of the document.
 3. Send the completed document to email (ygh2@cug.edu.cn).
 
