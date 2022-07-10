@@ -3,14 +3,14 @@
 # MAFW
 
 
-MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression  Recognition in the Wild. The data source of MAFW is richer, not only from movies and TV dramas, but also includes short videos from reality shows, talk shows, news, variety shows, etc, which is closer to the real-world emotion.
+<b>MAFW</b>: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression  Recognition in the Wild. The data source of MAFW is richer, not only from movies and TV dramas, but also includes short videos from reality shows, talk shows, news, variety shows, etc, which is closer to the real-world emotion.
 
 ### Features
 
-- [10,045] video-audio clips.
+- <b>10,045</b> video-audio clips.
 - Each clip is annotated with a compound emotional category and a couple of sentences that describe the subjects’ affective behaviors in the clip.
-- multiple modalities in the wild.
-- 11 single-emotion categories and 32 multi-emotion categories.
+- <b>multiple modalities</b> in the wild.
+- <b>11</b> single-emotion categories and<b> 32</b>  multi-emotion categories.
 
 
 ## 1. Samples of MAFW
@@ -29,9 +29,9 @@ MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial
 > **Note:** We have set out some of the terms and conditions in this section, as detailed in the [academics document](https://github.com//MAFW-datset/mafw/blob/main/academics/mafw-academics-final.pdf). Your E-mail MUST be set from a valid University account.
 
 ### 2.1 Some terms&conditions
-- MAFW database is available for non-commercial research purposes only.
-- You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for commercial purposes, any portion of the clips, and any derived data.
-- You agree not to further copy, publish, or distribute any portion of the MAFW database. Except for internal use at a single site within the same organization, it is allowed to make copies of the dataset.
+- MAFW database is available for  <b>non-commercial research purposes </b> only.
+- You agree  <b>not to </b> reproduce, duplicate, copy, sell, trade, resell or exploit for commercial purposes, any portion of the clips, and any derived data.
+- You agree  <b>not to </b> further copy, publish, or distribute any portion of the MAFW database. Except for internal use at a single site within the same organization, it is allowed to make copies of the dataset.
 
 
 
