@@ -7,7 +7,7 @@ MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial
 
 ### Features
 
-- 10,045 video-audio clips.
+- [10,045] video-audio clips.
 - Each clip is annotated with a compound emotional category and a couple of sentences that describe the subjects’ affective behaviors in the clip.
 - multiple modalities in the wild.
 - 11 single-emotion categories and 32 multi-emotion categories.
