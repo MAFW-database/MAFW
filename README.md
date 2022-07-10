@@ -21,7 +21,7 @@ MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial
 ![image](imgs/image03.png)
 
 ### 1.2 Examples of the multiple expressions in MAFW
-![image](https://github.com/MAFW-datset/mafw/blob/main/imgs/image04.png)
+![image](imgs/image04.png)
 
 
 ## 2. Download the MAFW dataset
