@@ -41,7 +41,7 @@ Permission to use but not reproduce or distribute the MAFW database is granted t
 2. Read the terms and conditions carefully to make sure they are acceptable, and fill in the relevant information at the end of the document.
 3. Send the completed document to email (ygh2@cug.edu.cn).
 
-## Content preview
+## Content Preview
 Below is a preview of the contents of our dataset.
 
 ```
