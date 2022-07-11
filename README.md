@@ -42,7 +42,7 @@ Permission to use but not reproduce or distribute the MAFW database is granted t
 3. Send the completed document to email (ygh2@cug.edu.cn).
 
 ## Content preview
-
+Below is a preview of the contents of our dataset.
 
 ```
 MAFW Dataset{
@@ -62,11 +62,11 @@ MAFW Dataset{
 ```
 An example in the single_label.txt is:
 
-03747.mp4  anger  <br>一个男人对着面前的激动地说话。眉头紧蹙，微微皱鼻。 <br> A man speaks excitedly to the man in front of him. The deep frown and the slightly wrinkled nose.
+03747.mp4  anger  </br>一个男人对着面前的激动地说话。眉头紧蹙，微微皱鼻。 </br> A man speaks excitedly to the man in front of him. The deep frown and the slightly wrinkled nose.
 
 An example in the multi_label.txt is:
 
-20045.mp4	anger_disgust_anxiety	<br>一个女人在门口苦口婆心地劝说朋友。皱眉，眉毛内低外高，鼻子微皱，噘嘴，嘴角下拉。	<br>A woman in a doorway painstakingly persuads her friend. The frown, the lower inner corners of eyebrows, the higher outer corners of eyebrows, the slightly wrinkled nose, a pout, and a downward pull on the lip corners.
+20045.mp4	anger_disgust_anxiety	</br>一个女人在门口苦口婆心地劝说朋友。皱眉，眉毛内低外高，鼻子微皱，噘嘴，嘴角下拉。	</br>A woman in a doorway painstakingly persuads her friend. The frown, the lower inner corners of eyebrows, the higher outer corners of eyebrows, the slightly wrinkled nose, a pout, and a downward pull on the lip corners.
 
 
 ## Citation
