@@ -62,7 +62,7 @@ MAFW Dataset{
 ```
 An example in the single_label.txt is:
 
-03747.mp4  anger    160一个男人对着面前的激动地说话。眉头紧蹙，微微皱鼻。 A man speaks excitedly to the man in front of him. The deep frown and the slightly wrinkled nose.
+03747.mp4  anger   一个男人对着面前的激动地说话。眉头紧蹙，微微皱鼻。 A man speaks excitedly to the man in front of him. The deep frown and the slightly wrinkled nose.
 
 An example in the multi_label.txt is:
 
