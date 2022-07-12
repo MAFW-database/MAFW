@@ -97,12 +97,11 @@ MAFW Code Link (https://github.com/MAFW-datset/mafw).
 ## Contact 
 
 If you have any questions about the dataset, please contact us by email.
-| Contacts | Email |
-| ------ | ------ |
-| Yuanyuan Liu (Associate Professor, China University of Geosciences)| liuyy@cug.edu.cn|
-| Guanghao Yin (Master, China University of Geosciences) | ygh2@cug.edu.cn |
-
-
+<br>
+Yuanyuan Liu (Associate Professor, China University of Geosciences)(liuyy@cug.edu.cn)
+<br>
+Guanghao Yin (Master, China University of Geosciences) (ygh2@cug.edu.cn)
+<br>
 Also, visit our team research home page at https://cvlab-liuyuanyuan.github.io/
 
 
