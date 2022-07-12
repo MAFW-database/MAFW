@@ -64,7 +64,7 @@ Please cite our paper if you find our work useful for your research:
 ```
 ##  Code
 
-MAFW Code Link (https://github.com/MAFW-datset/mafw).
+MAFW Code Link ([https://github.com/MAFW-database/MAFW](https://github.com/MAFW-database/MAFW)).
 
 ## Contact 
 
