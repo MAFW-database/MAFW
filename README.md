@@ -71,7 +71,7 @@ An example in the multi_label.txt is:
 
 ## Citation
 
-- [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild]()
+- [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild]() ,in ACM Multimedia, 2022.
 
 Please cite our paper if you find our work useful for your research:
 
