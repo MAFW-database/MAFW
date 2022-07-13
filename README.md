@@ -41,6 +41,26 @@ Permission to use but not reproduce or distribute the MAFW database is granted t
 2. Read the terms and conditions carefully to make sure they are acceptable, and fill in the relevant information at the end of the document.
 3. Send the completed document to email (ygh2@cug.edu.cn).
 
+## Content Preview
+Below is a preview of the contents of our dataset.
+
+```
+MAFW Dataset{
+	clips: {
+	       .....
+	       00151.mp4,
+	       00152.mp4,
+	       00153.mp4,
+	       .....
+		}
+	caption-label: {
+		single_set : single_label.txt
+		multi_Set : multi_label.txt		 
+		}
+	readme.txt
+}
+```
+
 ## Citation
 
 - [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](/academics/MAFW.pdf),in ACM Multimedia, 2022.
