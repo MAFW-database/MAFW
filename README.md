@@ -43,7 +43,7 @@ Permission to use but not reproduce or distribute the MAFW database is granted t
 
 ## Citation
 
-- [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](/academics/MAFW A Large-scale, Multi-modal, Compound Affective.pdf) ,in ACM Multimedia, 2022.
+- [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](/academics/MAFW A Large-scale, Multi-modal, Compound Affective.pdf),in ACM Multimedia, 2022.
 
 Please cite our paper if you find our work useful for your research:
 
