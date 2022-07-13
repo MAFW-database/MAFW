@@ -97,7 +97,7 @@ Yuanyuan Liu (Associate Professor, China University of Geosciences)([liuyy@cug.e
 <br>
 Guanghao Yin (Master, China University of Geosciences) ([ygh2@cug.edu.cn]())
 <br>
-Shaoze Feng(Master, China University of Geosciences)([2807592236@cug.edu.cn]())
+Shaoze Feng (Master, China University of Geosciences)([2807592236@cug.edu.cn]())
 <br>
 <br>
 Also, visit our team research home page at [https://cvlab-liuyuanyuan.github.io/](https://cvlab-liuyuanyuan.github.io/)
