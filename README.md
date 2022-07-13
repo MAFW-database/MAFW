@@ -7,7 +7,7 @@
 
 - <b>10,045</b> number of video clips from movies, TV dramas, and short videos
 - a <b>11-dimensional</b>  expression distribution vector for each video clip
-- <b>three kinds of annotations</b><br/>    (1) single expression label<br />    (2) multiple expression label<br />    (3) bilingual emotional descriptive text
+- <b>three kinds of annotations</b><br/> &emsp;&emsp;(1) single expression label<br />    (2) multiple expression label<br />    (3) bilingual emotional descriptive text
 -  <b>two subsets</b>: single-expression set, including <b>11</b> classes of <b>single</b>  emotions; multiple-expression set, including  <b>32</b> classes of  <b>multiple </b>emotions
 -  <b>three automatic annotations</b>: the frame-level 68 facial landmarks, bounding boxes of face regions, and gender
 - <b>four benchmarks</b> : uni-modal single expression classification, uni-modal  compound expression classification, multi-modal single expression classification, and multi-modal compound expression classification.
