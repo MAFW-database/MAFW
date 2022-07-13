@@ -60,7 +60,14 @@ MAFW Dataset{
 	readme.txt
 }
 ```
-
+An example in the single_label.txt is:<br>
+03352.mp4  &emsp;&emsp;happiness	 &emsp; &emsp;&emsp;    一位男子手握一杯饮料，向别人介绍着这杯饮料。嘴角上扬。	 &emsp;A man holds a drink in his hand and introduces it to others. The raised lip corners.
+<br>
+<br>
+An example in the multi_label.txt is:<br>
+09932.mp4 &emsp;sadness_surprise &emsp;	一个女人听见一个噩耗，手机从耳边滑下。眉头紧蹙，瞪眼。	 &emsp;A woman hears a bad news and her mobile phone slips down her ear. The deep frown and the wide eyes.
+<br>
+<br>
 For more details of the dataset, please refer to the paper ["MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild"](/academics/MAFW.pdf).
 ## Citation
 
