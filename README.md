@@ -61,6 +61,7 @@ MAFW Dataset{
 }
 ```
 
+For more details of the dataset, please refer to the paper ["MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild"](/academics/MAFW.pdf).
 ## Citation
 
 - [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](/academics/MAFW.pdf),in ACM Multimedia, 2022.
