@@ -5,12 +5,12 @@
 
 <b>MAFW</b> is a large-scale, multi-modal, compound affective database for dynamic facial expression recognition in the wild. Clips in this database come from China, Japan, Korea, Europe, America and India, and cover various themes, e.g., variety, family, science fiction, suspense, love, comedy, and interviews, encompassing a wide range of human emotions. Each clip has been independently labeled 11 times by 11 well-trained annotators. MAFW database has enormous diversities, large quantities, and rich annotations, including:
 
-- <b>10,045</b> number of video clips from movies, TV dramas, and short videos
-- a <b>11-dimensional</b>  expression distribution vector for each video clip
-- <b>three kinds of annotations</b><br/> &emsp;&emsp;(1) single expression label<br />    &emsp;&emsp;(2) multiple expression label<br />  &emsp;&emsp;(3) bilingual emotional descriptive text
--  <b>two subsets</b>: single-expression set, including <b>11</b> classes of <b>single</b>  emotions; multiple-expression set, including  <b>32</b> classes of  <b>multiple </b>emotions
--  <b>three automatic annotations</b>: the frame-level 68 facial landmarks, bounding boxes of face regions, and gender
-- <b>four benchmarks</b> : uni-modal single expression classification, uni-modal  compound expression classification, multi-modal single expression classification, and multi-modal compound expression classification.
+- <b>10,045</b> number of video clips from movies, TV dramas, and short videos,
+- a <b>11-dimensional</b>  expression distribution vector for each video clip,
+- <b>three kinds of annotations</b>: (1) single expression label; (2) multiple expression label; (3) bilingual emotional descriptive text,
+-  <b>two subsets</b>: single-expression set, including <b>11</b> classes of <b>single</b>  emotions; multiple-expression set, including  <b>32</b> classes of  <b>multiple </b>emotions,
+-  <b>three automatic annotations</b>: the frame-level 68 facial landmarks, bounding boxes of face regions, and gender,
+- <b>four benchmarks</b> : uni-modal single expression classification, multi-modal single expression classification, uni-modal compound expression classification, and multi-modal compound expression classification.
 
 
 ## Samples Videos
