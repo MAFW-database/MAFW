@@ -91,11 +91,10 @@ For more details of the dataset, please refer to the paper ["MAFW: A Large-scale
 -->
 
 ## Citation
+[MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild.pdf](/academics/MAFW_final.pdf)
+
 Please cite our paper if you find our work useful for your research:
 - Yuanyuan Liu, Wei Dai, Chuanxu Feng, Wenbin Wang, Guanghao Yin, Jiabei Zeng, and Shiguang Shan. 2022. MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild. In Proceedings of the 30th ACM International Conference on Multimedia (MM ’22), October 10–14, 2022, Lisboa, Portugal. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3503161.3548190
-
-[MAFW.pdf](/academics/MAFW - A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild.pdf)
-
 
 <!--
 ```
