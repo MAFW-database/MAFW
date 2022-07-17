@@ -19,7 +19,7 @@
 ### 1 Examples of the single expressions in MAFW
 
 <table id="tfhover" class="tftable" border="1">
-<tr><td><image src="samples-gif/anger_07317_4s.gif" /></td><td><b>Anger</b></td><td>中文：一个女生眼含着泪水大声训斥着对面的人。眉头紧蹙，嘴角下拉，眉毛内高外低。<br />English: A girl with tears in her eyes shouts at the person opposite her. The deep frown,a downward pull on the lip corners,the higher inner corners of eyebrows and the lower outer corners of eyebrows.</td></tr>
+<tr><td width="20%"><image src="samples-gif/anger_07317_4s.gif" /></td><td><b>Anger</b></td><td>中文：一个女生眼含着泪水大声训斥着对面的人。眉头紧蹙，嘴角下拉，眉毛内高外低。<br />English: A girl with tears in her eyes shouts at the person opposite her. The deep frown,a downward pull on the lip corners,the higher inner corners of eyebrows and the lower outer corners of eyebrows.</td></tr>
 <tr><td><image src="samples-gif/disgust_07734.gif" /></td><td><b>Disgust</b></td><td>中文：一个女人紧张的看着脚下的东西。皱眉，眼睛微闭，嘴巴张开。<br />English: A woman looks nervously at her feet. The frown,the closed eyes and  the  open mouth.</td></tr>
 <tr><td><image src="samples-gif/fear_09246.gif" /></td><td><b>Fear</b></td><td>中文：一个女孩在昏暗的环境中急促的喘息。瞪眼，嘴巴张大。<br />English: A girl gasps in the dark. The wide eyes and the open mouth.</td></tr>
 <tr><td><image src="samples-gif/happy_01440.gif" /></td><td><b>Happiness</b></td><td>中文：一个女人与男人交流，谈论着晚餐。眼睛微闭，嘴巴张开，嘴角上扬。<br />English: A woman communicates with a man, talking about dinner. The slightly closed eyes, the open mouth and the raised lip corners.</td></tr>
