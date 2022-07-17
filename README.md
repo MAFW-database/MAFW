@@ -19,17 +19,17 @@
 ### 1 Examples of the single expressions in MAFW
 
 <table id="tfhover" class="tftable" border="1">
-<tr><td><image src="samples/anger_07317_4s.gif" /></td><td><b>Anger</b></td><td>中文：一个女生眼含着泪水大声训斥着对面的人。眉头紧蹙，嘴角下拉，眉毛内高外低。<br />English: A girl with tears in her eyes shouts at the person opposite her. The deep frown,a downward pull on the lip corners,the higher inner corners of eyebrows and the lower outer corners of eyebrows.</td></tr>
-<tr><td><image src="samples/disgust_07734.gif" /></td><td><b>Disgust</b></td><td>中文：一个女人紧张的看着脚下的东西。皱眉，眼睛微闭，嘴巴张开。<br />English: A woman looks nervously at her feet. The frown,the closed eyes and  the  open mouth.</td></tr>
-<tr><td><image src="samples/fear_09246.gif" /></td><td><b>Fear</b></td><td>中文：一个女孩在昏暗的环境中急促的喘息。瞪眼，嘴巴张大。<br />English: A girl gasps in the dark. The wide eyes and the open mouth.</td></tr>
-<tr><td><image src="samples/happy_01440.gif" /></td><td><b>Happiness</b></td><td>中文：一个女人与男人交流，谈论着晚餐。眼睛微闭，嘴巴张开，嘴角上扬。<br />English: A woman communicates with a man, talking about dinner. The slightly closed eyes, the open mouth and the raised lip corners.</td></tr>
-<tr><td><image src="samples/sad_00467.gif" /></td><td><b>Sadness</b></td><td>中文：一个女孩站在海边，仰着头哭泣。眉头紧蹙，嘴巴张大。<br />English: A girl stands on the beach, tilting her head back and crying. The deep frown and the wide open mouth.</td></tr>
-<tr><td><image src="samples/surprise_15152.gif" /></td><td><b>Surprise</b></td><td>中文：女人坐着眼睛慢慢睁大，然后突然向后颤动了一下，慌乱地询问道。瞪眼。<br />English: The woman sits with her eyes slowly widening, then suddenly shivers back and asks in a confused voice. The wide eyes.</td></tr>
-<tr><td><image src="samples/contempt_08668.gif" /></td><td><b>Contempt</b></td><td>中文：一个女人不屑地笑了一声。撇嘴。<br />English: A woman gives a dismissive laugh. A curl of the lips.</td></tr>
-<tr><td><image src="samples/anxiety_07499.gif" /></td><td><b>Anxiety</b></td><td>中文：一个女人打不通电话，不耐烦地埋怨了一声。皱眉，抿嘴。<br />English: A woman can't get through to the phone and grumbles impatiently. The  frown and the compressed lips.</td></tr>
-<tr><td><image src="samples/helplessness_08581.gif" /></td><td><b>Helplessness</b></td><td>中文：一个侍女若有所思地站在女主人身后。瞪眼，抿嘴。<br />English: A maid stands thoughtfully behind her mistress. The wide eyes and the compressed lips.</td></tr>
-<tr><td><image src="samples/disappointment_09683.gif" /></td><td><b>Disappointment</b></td><td>中文：一个男人低下头，深呼吸。嘴巴半张，嘴唇颤抖。<br />English: A man lowers his head and takes a deep breath. The open mouth and the trembling lips.</td></tr>
-<tr><td><image src="samples/neutral_00120_3s.gif" /></td><td><b>Neutral</b></td><td>-</td></tr>
+<tr><td><image src="samples-gif/anger_07317_4s.gif" /></td><td><b>Anger</b></td><td>中文：一个女生眼含着泪水大声训斥着对面的人。眉头紧蹙，嘴角下拉，眉毛内高外低。<br />English: A girl with tears in her eyes shouts at the person opposite her. The deep frown,a downward pull on the lip corners,the higher inner corners of eyebrows and the lower outer corners of eyebrows.</td></tr>
+<tr><td><image src="samples-gif/disgust_07734.gif" /></td><td><b>Disgust</b></td><td>中文：一个女人紧张的看着脚下的东西。皱眉，眼睛微闭，嘴巴张开。<br />English: A woman looks nervously at her feet. The frown,the closed eyes and  the  open mouth.</td></tr>
+<tr><td><image src="samples-gif/fear_09246.gif" /></td><td><b>Fear</b></td><td>中文：一个女孩在昏暗的环境中急促的喘息。瞪眼，嘴巴张大。<br />English: A girl gasps in the dark. The wide eyes and the open mouth.</td></tr>
+<tr><td><image src="samples-gif/happy_01440.gif" /></td><td><b>Happiness</b></td><td>中文：一个女人与男人交流，谈论着晚餐。眼睛微闭，嘴巴张开，嘴角上扬。<br />English: A woman communicates with a man, talking about dinner. The slightly closed eyes, the open mouth and the raised lip corners.</td></tr>
+<tr><td><image src="samples-gif/sad_00467.gif" /></td><td><b>Sadness</b></td><td>中文：一个女孩站在海边，仰着头哭泣。眉头紧蹙，嘴巴张大。<br />English: A girl stands on the beach, tilting her head back and crying. The deep frown and the wide open mouth.</td></tr>
+<tr><td><image src="samples-gif/surprise_15152.gif" /></td><td><b>Surprise</b></td><td>中文：女人坐着眼睛慢慢睁大，然后突然向后颤动了一下，慌乱地询问道。瞪眼。<br />English: The woman sits with her eyes slowly widening, then suddenly shivers back and asks in a confused voice. The wide eyes.</td></tr>
+<tr><td><image src="samples-gif/contempt_08668.gif" /></td><td><b>Contempt</b></td><td>中文：一个女人不屑地笑了一声。撇嘴。<br />English: A woman gives a dismissive laugh. A curl of the lips.</td></tr>
+<tr><td><image src="samples-gif/anxiety_07499.gif" /></td><td><b>Anxiety</b></td><td>中文：一个女人打不通电话，不耐烦地埋怨了一声。皱眉，抿嘴。<br />English: A woman can't get through to the phone and grumbles impatiently. The  frown and the compressed lips.</td></tr>
+<tr><td><image src="samples-gif/helplessness_08581.gif" /></td><td><b>Helplessness</b></td><td>中文：一个侍女若有所思地站在女主人身后。瞪眼，抿嘴。<br />English: A maid stands thoughtfully behind her mistress. The wide eyes and the compressed lips.</td></tr>
+<tr><td><image src="samples-gif/disappointment_09683.gif" /></td><td><b>Disappointment</b></td><td>中文：一个男人低下头，深呼吸。嘴巴半张，嘴唇颤抖。<br />English: A man lowers his head and takes a deep breath. The open mouth and the trembling lips.</td></tr>
+<tr><td><image src="samples-gif/neutral_00120_3s.gif" /></td><td><b>Neutral</b></td><td>-</td></tr>
 </table>
 
 ### 2 Examples of the multiple expressions in MAFW
