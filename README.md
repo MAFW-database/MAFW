@@ -91,11 +91,13 @@ For more details of the dataset, please refer to the paper ["MAFW: A Large-scale
 -->
 
 ## Citation
-
-- [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](/academics/MAFW.pdf),in ACM Multimedia, 2022.
-
 Please cite our paper if you find our work useful for your research:
+- Yuanyuan Liu, Wei Dai, Chuanxu Feng, Wenbin Wang, Guanghao Yin, Jiabei Zeng, and Shiguang Shan. 2022. MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild. In Proceedings of the 30th ACM International Conference on Multimedia (MM ’22), October 10–14, 2022, Lisboa, Portugal. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3503161.3548190
 
+[MAFW.pdf](/academics/MAFW - A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild.pdf)
+
+
+<!--
 ```
 @inproceedings{xxxxxx,
 
@@ -111,23 +113,20 @@ Please cite our paper if you find our work useful for your research:
 
 }
 ```
+-->
+
 ##  Code
-We have uploaded our code project on github.
-<br>
-You can download it from MAFW Code Link ([https://github.com/MAFW-database/MAFW](https://github.com/MAFW-database/MAFW)).
+MAFW Code Link: [https://github.com/MAFW-database/MAFW](https://github.com/MAFW-database/MAFW)
 
 ## Contact 
 
-If you have any questions about the dataset, please contact us by email.
-<br>
-<br>
-Yuanyuan Liu (Associate Professor, China University of Geosciences)([liuyy@cug.edu.cn]())
-<br>
-Guanghao Yin (Master, China University of Geosciences) ([ygh2@cug.edu.cn]())
-<br>
-Shaoze  Feng (Master, China University of Geosciences)([2807592236@cug.edu.cn]())
-<br>
-<br>
-Also, visit our team research home page at [https://cvlab-liuyuanyuan.github.io/](https://cvlab-liuyuanyuan.github.io/)
+Please contact us for any questions about MAFW.
+<table id="tfhover" class="tftable" border="1">
+<tr><td>Yuanyuan Liu</td><td>Associate Professor, China University of Geosciences</td><td>[liuyy@cug.edu.cn]()</td></tr>
+<tr><td>Guanghao Yin</td><td>Master, China University of Geosciences</td><td>[ygh2@cug.edu.cn]()</td></tr>
+<tr><td>Shaoze Feng</td><td>Master, China University of Geosciences</td><td>[2807592236@cug.edu.cn]()</td></tr>
+</table>
+
+For more information, welcome to visit our team's homepage: [https://cvlab-liuyuanyuan.github.io/](https://cvlab-liuyuanyuan.github.io/)
 
 
