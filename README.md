@@ -33,7 +33,13 @@
 </table>
 
 ### 2 Examples of the multiple expressions in MAFW
-![image](imgs/image04.png)
+
+<table id="tfhover" class="tftable" border="1">
+<tr><td><image src="samples-gif/anger-disgust_08827.gif" /></td><td><b>Anger_Disgust</b></td><td>中文：一个男人听到面前的男人的话语后将头瞥向一边。皱眉，嘴角下拉。<br />English: A man glances his head to the side at the words of the man in front of him. The frown and a downward pull on the lip corners.</td></tr>
+<tr><td><image src="samples-gif/fear_sad_07213.gif" /></td><td><b>Fear_Sadness</b></td><td>中文：一个女人蹲坐在地上满含泪水的在和男人说话。皱眉，嘴角下拉。<br />English: A woman squats on the ground and talks to a man tearfully. The marked frown and a downward pull on the lip corners.</td></tr>
+<tr><td><image src="samples-gif/fear-sad-anxiety_09878.gif" /></td><td><b>Fear_Sadness_Anxiety</b></td><td>中文：一个女人哀求着。皱眉，瞪眼，嘴巴微张。<br />English: A woman begs someone. The marked frown, the wide eyes and the slightly open mouth.</td></tr>
+<tr><td><image src="samples-gif/anger-disgust-contempt_15120.gif" /></td><td><b>Anger_Disgust_Contempt</b></td><td>中文：一个女人居高临下地挖苦对方。下巴上扬，挑眉，闭眼，皱眉。<br />English: A woman makes a condescending sarcasm at the other person. The raised chin, the raised eyebrows, the closed eyes and the frown.</td></tr>
+</table>
 
 
 ## Terms & Conditions
@@ -53,6 +59,7 @@ Permission to use but not reproduce or distribute the MAFW database is granted t
 2. Read the terms and conditions carefully to make sure they are acceptable, and fill in the relevant information at the end of the document.
 3. Send the completed document to email (ygh2@cug.edu.cn).
 
+<!--
 ## Content Preview
 Below is a preview of the contents of our dataset.
 
@@ -81,6 +88,8 @@ An example in the multi_label.txt is:<br>
 <br>
 <br>
 For more details of the dataset, please refer to the paper ["MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild"](/academics/MAFW.pdf).
+-->
+
 ## Citation
 
 - [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](/academics/MAFW.pdf),in ACM Multimedia, 2022.
