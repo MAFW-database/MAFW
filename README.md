@@ -116,19 +116,19 @@ Please cite our paper if you find our work useful for your research:
 
 - Data
 
-<image src="samples-gif/data.png" height="100" />
+<image src="samples-gif/data.png" height="130" />
 
 - Labels
 
-<image src="samples-gif/labels.png" height="100" />
+<image src="samples-gif/labels.png" height="130" />
 
 - Labels (auto)
 
-<image src="samples-gif/auto_labels.png" height="100" />
+<image src="samples-gif/auto_labels.png" height="130" />
 
 - Train & Test
 
-<image src="samples-gif/train&test.png" height="100" />
+<image src="samples-gif/train&test.png" height="130" />
 
 For more details of the dataset, please refer to the paper: [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild.pdf](/academics/MAFW_final.pdf)
 
