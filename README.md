@@ -140,7 +140,7 @@ MAFW Code Link: [https://github.com/MAFW-database/MAFW](https://github.com/MAFW-
 
 Please contact us for any questions about MAFW.
 <table id="tfhover" class="tftable" border="1">
-<tr><td>Yuanyuan Liu</td><td>Associate Professor, China University of Geosciences</td><td><a href="mailto:liuyy@cug.edu.cn">liuyy@cug.edu.cn</a></td></tr>
+<tr><td width="20%">Yuanyuan Liu</td><td width="65%">Associate Professor, China University of Geosciences</td><td width="15%"><a href="mailto:liuyy@cug.edu.cn">liuyy@cug.edu.cn</a></td></tr>
 <tr><td>Guanghao Yin</td><td>Master, China University of Geosciences</td><td><a href="mailto:ygh2@cug.edu.cn">ygh2@cug.edu.cn</a></td></tr>
 <tr><td>Shaoze Feng</td><td>Master, China University of Geosciences</td><td><a href="mailto:2807592236@cug.edu.cn">2807592236@cug.edu.cn</a></td></tr>
 </table>
