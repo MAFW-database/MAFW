@@ -127,7 +127,7 @@ Please cite our paper if you find our work useful for your research:
 
 <image src="samples-gif/auto_labels.png" height="130" />
 
-- Train & Test
+- Train & Test Set
 
 <image src="samples-gif/train&test.png" height="130" />
 
@@ -135,7 +135,7 @@ For more details of the dataset, please refer to the paper: [MAFW: A Large-scale
 
 
 ##  Code
-MAFW Code Link: [https://github.com/MAFW-database/MAFW](https://github.com/MAFW-database/MAFW)
+The source code of our proposed T-ESFL model can be downloaded in [https://github.com/MAFW-database/MAFW](https://github.com/MAFW-database/MAFW).
 
 ## Contact 
 
