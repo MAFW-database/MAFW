@@ -13,7 +13,7 @@
 - <b>four benchmarks</b> : uni-modal single expression classification, multi-modal single expression classification, uni-modal compound expression classification, and multi-modal compound expression classification.
 
 
-## Samples Videos
+## Sample Videos
 
 
 ### 1. Examples of the single expressions in MAFW
