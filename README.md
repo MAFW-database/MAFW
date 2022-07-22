@@ -127,7 +127,9 @@ Please cite our paper if you find our work useful for your research:
 
 <image src="samples-gif/train&test.png" height="130" />
 
-For more details of the dataset, please refer to the paper: [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild.pdf](/academics/MAFW_final.pdf)
+For more details of the dataset, please refer to the paper: [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](/academics/MAFW_final.pdf).
+
+For more details of emotional descriptive texts, please refer to [supplementary materials](/academics/MAFW_supp.pdf) for MAFW.
 
 
 ##  Code
