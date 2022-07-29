@@ -142,6 +142,7 @@ Please contact us for any questions about MAFW.
 <tr><td width="20%">Yuanyuan Liu</td><td width="65%">Associate Professor, China University of Geosciences</td><td width="15%"><a href="mailto:liuyy@cug.edu.cn">liuyy@cug.edu.cn</a></td></tr>
 <tr><td>Guanghao Yin</td><td>Master, China University of Geosciences</td><td><a href="mailto:ygh2@cug.edu.cn">ygh2@cug.edu.cn</a></td></tr>
 <tr><td>Shaoze Feng</td><td>Master, China University of Geosciences</td><td><a href="mailto:2807592236@cug.edu.cn">2807592236@cug.edu.cn</a></td></tr>
+<tr><td>Lin Wei</td><td>Master, China University of Geosciences</td><td><a href="mailto:linw@cug.edu.cn">linw@cug.edu.cn</a></td></tr>
 </table>
 
 For more information, welcome to visit our team's homepage: [https://cvlab-liuyuanyuan.github.io/](https://cvlab-liuyuanyuan.github.io/)
