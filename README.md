@@ -58,7 +58,7 @@ This database is publicly available. It is free for professors and researcher sc
 Permission to use but not reproduce or distribute the MAFW database is granted to all researchers given that the following steps are properly followed:
 1. Download the [MAFW-academics -final.pdf](/academics/mafw-academics-final.pdf) document.
 2. Read the terms and conditions carefully to make sure they are acceptable, and fill in the relevant information at the end of the document.
-3. Send the completed document to email (ygh2@cug.edu.cn).
+3. Send the completed document to email (linw@cug.edu.cn).
 
 <!--
 ## Content Preview
