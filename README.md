@@ -59,6 +59,7 @@ Permission to use but not reproduce or distribute the MAFW database is granted t
 1. Download the [MAFW-academics -final.pdf](/academics/mafw-academics-final.pdf) document.
 2. Read the terms and conditions carefully to make sure they are acceptable, and fill in the relevant information at the end of the document.
 3. Send the completed document to email (1202411179@cug.edu.cn).
+4. After review and approval, you will receive download links via email, which include two options: **Baidu Netdisk** and **Google Drive**.
 
 <!--
 ## Content Preview
@@ -131,6 +132,36 @@ For more details of the dataset, please refer to the paper: [MAFW: A Large-scale
 
 For more details of emotional descriptive texts, please refer to [supplementary materials](/academics/MAFW_supp.pdf) for MAFW.
 
+
+## Frequently Asked Questions (FAQ)
+
+### 1. What is the difference between the Baidu Netdisk and Google Drive download links?
+After your application is approved, you will receive two download options:
+- **Baidu Netdisk**: Contains the complete dataset, including frame data.
+- **Google Drive**: Does not include frame data (only video clips and label files).
+
+### 2. What should I do if I can't access Baidu Netdisk but need frame data?
+If you require frame data but cannot access Baidu Netdisk, you can extract and process frames from the video clips obtained via Google Drive using the following steps (consistent with the preprocessing pipeline in our paper):
+1. **Extract frame pictures** from video clips using tools like OpenCV.
+2. **Face detection and landmark extraction**: Use face recognition tools (e.g., [face-alignment-master](https://github.com/1adrianb/face-alignment) referenced in our paper, or other convenient face detection libraries) to identify face regions and 68 facial landmarks.
+3. **Face alignment and resizing**: Perform affine transformation and matrix rotation (via OpenCV or similar libraries) to align faces, then resize the aligned face regions to **224×224 pixels** (consistent with the dataset's standard format).
+
+You may use any familiar face detection, landmark extraction, or alignment tool that suits your workflow— the key is to ensure the final output is 224×224 aligned face frames for consistency with the dataset's benchmark settings.
+
+### 3. How to handle split compressed files (e.g., clips and frames)?
+Due to the large size of the `clips` and `frames` directories, they are split into multiple compressed files:
+- Clips: `clips.7z.001`, `clips.7z.002`, ... (sequential numbering)
+- Frames: `frames.7z.001`, `frames.7z.002`, ..., `frames.7z.010` (up to 10 parts)
+
+**Extraction instructions:**
+- **Windows**: Use 7-Zip or WinRAR. Right-click the first file (e.g., `clips.7z.001` or `frames.7z.001`) and select "Extract here" – the software will automatically merge all parts into a single folder.
+- **Linux/macOS**: Use the `7z` command in the terminal. Run `7z x clips.7z.001` (or `frames.7z.001`) – the tool will detect and process all related parts sequentially.
+
+**Critical notes:**
+1. Ensure all split files are in the **same folder** (do not separate them into subdirectories).
+2. Do **not rename** any split files (e.g., avoid changing `clips.7z.001` to `clips_part1.7z`), as this will break the extraction sequence.
+3. Verify that all files are fully downloaded (no corruption or missing parts) – incomplete downloads will cause extraction failures.
+4. The final extracted folder will be named `clips` or `frames` (no need to manually merge folders).
 
 ##  Code
 The source code of our proposed T-ESFL model can be downloaded in [https://github.com/MAFW-database/MAFW](https://github.com/MAFW-database/MAFW).
