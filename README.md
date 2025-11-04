@@ -51,15 +51,15 @@
 
 
 
-##  How to get the MAFW Dataset
+## How to get the MAFW Dataset
 
-This database is publicly available. It is free for professors and researcher scientists affiliated to a University.
+This database is publicly available and free for **professors and research scientists affiliated to a university**.  For students interested in accessing the dataset, please note that the application requires formal endorsement by a faculty member from your institution.
 
-Permission to use but not reproduce or distribute the MAFW database is granted to all researchers given that the following steps are properly followed:
-1. Download the [MAFW-academics -final.pdf](/academics/mafw-academics-final.pdf) document.
-2. Read the terms and conditions carefully to make sure they are acceptable, and fill in the relevant information at the end of the document.
-3. Send the completed document to email (1202411179@cug.edu.cn).
-4. After review and approval, you will receive download links via email, which include two options: **Baidu Netdisk** and **Google Drive**.
+Permission to use (but not reproduce or distribute) the MAFW database is granted only if the following steps are properly followed:
+1.  Download the [MAFW-academics -final.pdf](/academics/mafw-academics-final.pdf) document, which serves as the End-User License Agreement (EULA).
+2.  Carefully review the terms and conditions to confirm acceptance.  The required information at the end of the document must be completed and signed—**for student applicants, this signature must be from a professor at their affiliated university** to validate the request.
+3.  Send the fully completed and signed document to: 1202411179@cug.edu.cn.
+4.  After review and approval, you will receive download links via email, including two options: **Baidu Netdisk** and **Google Drive**.
 
 <!--
 ## Content Preview
